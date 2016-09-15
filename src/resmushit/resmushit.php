@@ -1,6 +1,6 @@
 <?php
 
-namespace reSmushit;
+namespace resmushit;
 
 /**
  * simple reSmush.it library

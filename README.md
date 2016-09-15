@@ -1,4 +1,4 @@
-#reSmushit
+#resmushit
 simple reSmush.it library
 
 ## Requirements
@@ -8,6 +8,6 @@ simple reSmush.it library
 ## Installation
 #### Run composer
 ```shell
-composer require Eastchild/reSmushit
+composer require eastchild/resmushit
 ```
 
