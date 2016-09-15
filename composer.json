@@ -1,7 +1,7 @@
 {
-    "name": "Eastchild/resmuchit",
+    "name": "eastchild/resmuchit",
     "description": "simple reSmush.it library",
-    "homepage": "https://github.com/Eastchild/resmuchit",
+    "homepage": "https://github.com/eastchild/resmuchit",
     "license": "Apache-2.0",
     "type": "library",
     "version": "1.0.0",
