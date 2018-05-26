@@ -1,4 +1,4 @@
-#resmushit
+# resmushit
 simple reSmush.it library
 
 ## Requirements
